@@ -4,10 +4,12 @@
 
 ## Guyrlam Duque
 
-Desenvolvedor full stack em Belo Horizonte. Graduando em Mecatrônica, Robótica e Engenharia de Controle e Automação na UFMG.
+Desenvolvedor de Software Pleno no Grupo GE21, onde contribuo para a modernização de sistemas legados com React e Django. Atuo na implementação de testes automatizados (unitários e E2E) e na gestão de aplicações na Microsoft Azure, com foco em automação de pipelines de CI/CD e otimização de infraestrutura.
 
-Faço sistemas web e sistemas sob medida para negócios locais que ainda dependem de WhatsApp, planilha e PDF: distribuidoras, clínicas, escolas e cursos.
+Sou graduando em Mecatrônica, Robótica e Engenharia de Controle e Automação pela Universidade Federal de Minas Gerais (UFMG) e concluí a formação em Desenvolvimento Web pela Alpha EdTech. Tenho experiência sólida em desenvolvimento full stack, com foco em soluções escaláveis e de alta performance.
 
-**Tecnologias:** React, Next.js, Node.js, Django, .NET, SQL e NoSQL, Azure, GCP, Jest, Playwright, Sentry e Grafana.
+<p align="center">
+  <img src="assets/tecnologias.svg" alt="Tecnologias: Frontend: React, Next.js; Backend: Node.js, Django, .NET; Dados: SQL, NoSQL; Nuvem: Azure, GCP; Testes: Jest, Playwright; Observabilidade: Sentry, Grafana" width="100%">
+</p>
 
 [guyrlam.com](https://guyrlam.com) · [LinkedIn](https://www.linkedin.com/in/guyrlam) · guyrlamsilvaduque@gmail.com

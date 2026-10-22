@@ -9,7 +9,7 @@ Desenvolvedor de Software Pleno no Grupo GE21, onde contribuo para a modernizaç
 Sou graduando em Mecatrônica, Robótica e Engenharia de Controle e Automação pela Universidade Federal de Minas Gerais (UFMG) e concluí a formação em Desenvolvimento Web pela Alpha EdTech. Tenho experiência sólida em desenvolvimento full stack, com foco em soluções escaláveis e de alta performance.
 
 <p align="center">
-  <img src="assets/tecnologias.svg" alt="Tecnologias: Frontend: React, Next.js; Backend: Node.js, Django, .NET; Dados: SQL, NoSQL; Nuvem: Azure, GCP; Testes: Jest, Playwright; Observabilidade: Sentry, Grafana" width="100%">
+  <img src="assets/tecnologias.svg" alt="Tecnologias: Frontend: React, Next.js; Backend: Node.js, Django, .NET; Dados: SQL, NoSQL; Nuvem: Azure; Testes: Jest, Playwright; Observabilidade: Sentry, Grafana" width="100%">
 </p>
 
 [guyrlam.com](https://guyrlam.com) · [LinkedIn](https://www.linkedin.com/in/guyrlam) · guyrlamsilvaduque@gmail.com

@@ -12,4 +12,4 @@ Sou graduando em Mecatrônica, Robótica e Engenharia de Controle e Automação 
   <img src="assets/tecnologias.svg" alt="Painel em pixel art no estilo de tela de equipamento de jogo. Frontend: React, Next.js; Backend: Node.js, Django, .NET; Dados: SQL, NoSQL; Nuvem: Azure; Testes: Jest, Playwright; Observabilidade: Sentry, Grafana." width="100%">
 </p>
 
-[guyrlam.com](https://guyrlam.com) · [LinkedIn](https://www.linkedin.com/in/guyrlam) · guyrlamsilvaduque@gmail.com
+[guyrlam.com.br](https://guyrlam.com.br) · [LinkedIn](https://www.linkedin.com/in/guyrlam) · guyrlamsilvaduque@gmail.com
